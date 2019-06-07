@@ -1,0 +1,16 @@
+{
+  "short_name": "Push-Notification",
+  "name": "Push Notification Hands On",
+  
+  "theme_color": "#3367D6",
+  "display": "standalone",
+  "icons": [
+    {
+    "src": "/assets/icon.jpg",
+    "type": "image/jpg",
+    "sizes" : "192*192"
+    }
+  ],
+  "gcm_sender_id": "103953800507"
+  
+}
